@@ -34,3 +34,4 @@ If some local script on the page still triggers and tries to pop up a warning ba
 3. Go to the **Console** tab.
 4. Type **allow pasting** and press **`Enter`**.
 5. Then copy the contents of the [`bypass.js`](./bypass.js) file from this repository, paste it into the console, and press **`Enter`**:
+> After completing each task, the script needs to be run again.
