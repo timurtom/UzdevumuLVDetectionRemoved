@@ -34,3 +34,4 @@ Ja lapā tomēr nostrādā kāds lokālais skripts un mēģina parādīt paziņo
 3. Pārej uz cilni **Console** (Konsole).
 4. Ieraksti **allow pasting** un nospied **`Enter`**.
 5. Pēc tam nokopē faila [`bypass.js`](./bypass.js) saturu no šīs repozitorija, ielīmē to konsolē un nospied **`Enter`**:
+> Pēc katra izpildītā uzdevuma skripts ir jāpalaiž no jauna.
